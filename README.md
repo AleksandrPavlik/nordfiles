@@ -1,6 +1,6 @@
 PACKAGES:
 
-alacritty rofi i3gaps zsh neofetch picom maim xclip gcc git feh  
+alacritty rofi i3gaps zsh neofetch picom maim xclip gcc git feh powerlevel10k 
 
 #chmod +x launch.sh
 
